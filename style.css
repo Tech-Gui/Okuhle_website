@@ -1,0 +1,29 @@
+body {
+  background: url("Background4.png") top center;
+  background-size: cover;
+  color: brown;
+}
+
+#header {
+
+  transition: all ease-in-out 0.5s;
+  z-index: 9997;
+  transition: all 0.5s;
+  padding: 0 15px;
+
+  overflow-y: auto;
+}
+
+a {
+  color: blanchedalmond;
+
+}
+
+#header .collapse {
+  float: right;
+  margin-left: 40%;
+}
+
+#header .navbar-nav a {
+  color: rgb(142, 101, 39);
+}
