@@ -1,7 +1,8 @@
 body {
   background: url("Background4.png") top center;
   background-size: cover;
-  color: brown;
+  color: gray;
+
 }
 
 #header {
@@ -15,7 +16,7 @@ body {
 }
 
 a {
-  color: blanchedalmond;
+  color: gray;
 
 }
 
@@ -25,5 +26,21 @@ a {
 }
 
 #header .navbar-nav a {
-  color: rgb(142, 101, 39);
+  color: gray;
+}
+
+#header .brand {
+  width: 0.07px;
+  display: inline;
+}
+
+#main .col-lg-4 {
+  margin-top: 20%;
+  scale: 1.4;
+  margin-left: 10%;
+
+}
+
+.xyz {
+  margin-left: 30%;
 }
